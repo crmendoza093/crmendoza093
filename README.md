@@ -8,15 +8,15 @@ Experiencia en sectores **insurtech, fintech y legaltech**. Apasionado por la ar
 
 ---
 
-### 🚀 Actualmente
+### Actualmente
 
-- 💼 Software Engineer en **Somos Internet**
-- 🔧 Trabajando con **Ruby on Rails**, **React** y servicios cloud
-- 📚 Explorando **arquitectura de software** y **sistemas distribuidos**
+- Software Engineer en **Somos Internet**
+- Trabajando con **Ruby on Rails**, **React** y servicios cloud
+- Explorando **arquitectura de software** y **sistemas distribuidos**
 
 ---
 
-### 🛠️ Stack principal
+### Stack principal
 
 **Backend:** Ruby · Rails · C# · .NET  
 **Frontend:** React · JavaScript · HTML5 · Bootstrap  
@@ -25,9 +25,3 @@ Experiencia en sectores **insurtech, fintech y legaltech**. Apasionado por la ar
 **Otros:** RabbitMQ · Figma · Arduino
 
 ---
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=crmendoza093&show_icons=true&count_private=true&hide_border=true&theme=github_dark" alt="GitHub Stats" />
-</p>
